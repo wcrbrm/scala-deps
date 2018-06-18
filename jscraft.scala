@@ -1,0 +1,1 @@
+val jcraft = "com.jcraft" % "jsch" % "0.1.54"
