@@ -1,0 +1,1 @@
+val commonsCompress = "org.apache.commons" %% "commons-compress" % "1.16.1"
