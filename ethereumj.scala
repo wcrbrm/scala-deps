@@ -1,0 +1,1 @@
+val ethereumJ = "org.ethereum" % "ethereumj-core" % "1.6.3-RELEASE"
