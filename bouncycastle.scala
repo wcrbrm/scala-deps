@@ -1,0 +1,1 @@
+val bouncyCastle = "org.bouncycastle" % "bcprov-jdk15on" % "1.56"
