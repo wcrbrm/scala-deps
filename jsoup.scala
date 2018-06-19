@@ -1,0 +1,1 @@
+val jsoup = "org.jsoup" % "jsoup" % "1.11.3"
