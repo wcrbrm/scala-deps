@@ -1,0 +1,7 @@
+{
+  "name": "scala-deps",
+  "version": "0.0.1",
+  "dependencies": {
+    "strip-comments": "^1.0.2"
+  }
+}
