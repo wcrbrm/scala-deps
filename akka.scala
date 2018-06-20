@@ -7,4 +7,6 @@ val akka = Seq(
   "com.typesafe.akka" %% "akka-http-spray-json" % "10.1.1",
   "com.typesafe.akka" %% "akka-http-caching" % "10.1.1",
   "com.typesafe.akka" %% "akka-http-testkit" % "10.1.1"% Test
+  "com.typesafe.akka" %% "akka-cluster" % "2.5.12",
+  "com.typesafe.akka" %% "akka-cluster-tools" % "2.5.12"
 )
