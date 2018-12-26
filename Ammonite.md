@@ -54,6 +54,10 @@ import $ivy.`io.circe::circe-core:0.10.0`
 import $ivy.`io.circe::circe-parser:0.10.0`
 import $ivy.`io.circe::circe-generic:0.10.0`
 
+// Json4s
+import $ivy.`org.json4s::json4s-native:3.6.0-M3`
+import $ivy.`org.json4s::json4s-jackson:3.6.0-M3`
+
 // HTTP
 import $ivy.`com.squareup.okhttp3:okhttp:3.12.1`
 
@@ -72,6 +76,9 @@ import $ivy.`com.typesafe.akka::akka-cluster-metrics:2.5.16`
 import $ivy.`com.typesafe.akka::akka-cluster-tools:2.5.16`
 import $ivy.`com.typesafe.akka::akka-multi-node-testkit:2.5.16`
 
+// CONFIG
+import $ivy.`com.typesafe:config:1.3.0`
+
 // LEVEL DB:
 import $ivy.`org.iq80.leveldb:leveldb:0.10`
 import $ivy.`org.fusesource.leveldbjni:leveldbjni-all:1.8`
@@ -87,11 +94,11 @@ import $ivy.`com.github.alexarchambault::argonaut-shapeless_6.1:1.1.1`
 import $ivy.`org.apache.commons:commons-compress:1.16.1`
 
 // PDF
-import $ivy.`com.itextpdf::itextpdf:5.5.10`
-import $ivy.`org.apache.pdfbox::pdfbox:2.0.4`
+import $ivy.`com.itextpdf:itextpdf:5.5.10`
+import $ivy.`org.apache.pdfbox:pdfbox:2.0.4`
 
 // JODA
-import $ivy.`joda-time::joda-time:2.7`
+import $ivy.`joda-time:joda-time:2.7`
 
 // QR
 import $ivy.`com.google.zxing:core:3.3.3`
@@ -112,4 +119,6 @@ import $ivy.`com.madgag.spongycastle:prov:1.53.0.0`
 // SHAPELESS
 import $ivy.`com.chuusai::shapeless:2.3.3`
 
+// SSH
+import $ivy.`fr.janalyse::janalyse-ssh:0.1.3`
 ```
