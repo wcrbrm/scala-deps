@@ -5,6 +5,7 @@ For quick testing in REPL, this is the list of valid packages:
 ```
 // Testing
 import $ivy.`org.scalatest::scalatest:3.0.5` 
+import $ivy.`org.scalactic::scalactic:3.0.5` 
 import $ivy.`org.scalacheck::scalacheck:1.14.0` 
 
 // CATS
@@ -55,6 +56,12 @@ import $ivy.`io.circe::circe-generic:0.10.0`
 
 // HTTP
 import $ivy.`com.squareup.okhttp3:okhttp:3.12.1`
+
+// AKKA HTTP
+import $ivy.`com.typesafe.akka::akka-http:10.1.1`
+import $ivy.`com.typesafe.akka::akka-http-spray-json:10.1.1`
+import $ivy.`com.typesafe.akka::akka-http-caching:10.1.1`
+import $ivy.`com.typesafe.akka::akka-http-testkit:10.1.1`
 
 // AKKA Actors and Cluster
 import $ivy.`com.typesafe.akka::akka-actor:2.5.16`
