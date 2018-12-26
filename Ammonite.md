@@ -74,6 +74,7 @@ import $ivy.`io.argonaut::argonaut:6.2`
 import $ivy.`io.argonaut::argonaut-scalaz:6.2`
 import $ivy.`io.argonaut::argonaut-monocle:6.2`
 import $ivy.`io.argonaut::argonaut-cats:6.2`
+import $ivy.`com.github.alexarchambault::argonaut-shapeless_6.1:1.1.1`
 
 // COMPRESS
 import $ivy.`org.apache.commons:commons-compress:1.16.1`
@@ -88,5 +89,20 @@ import $ivy.`joda-time::joda-time:2.7`
 // QR
 import $ivy.`com.google.zxing:core:3.3.3`
 import $ivy.`com.google.zxing:javase:3.3.3`
+
+// APACHE SPARK
+import $ivy.`org.apache.spark::spark-core:1.2.0`
+import $ivy.`org.apache.spark::spark-streaming:1.2.0`
+import $ivy.`org.apache.spark::spark-streaming-twitter_2.10:1.2.0`
+
+// BOUNCY CASTLE
+import $ivy.`org.bouncycastle:bcprov-jdk15on:1.56`
+
+// SPONGY CASTLE
+import $ivy.`com.madgag.spongycastle:core:1.53.0.0`
+import $ivy.`com.madgag.spongycastle:prov:1.53.0.0`
+
+// SHAPELESS
+import $ivy.`com.chuusai::shapeless:2.3.3`
 
 ```
