@@ -37,6 +37,10 @@ import $ivy.`com.github.tminglei::slick-pg:0.17.0`
 import $ivy.`com.github.tminglei::slick-pg_spray-json:0.17.0`
 import $ivy.`ru.yandex.qatools.embed::postgresql-embedded:2.2`
 
+// MySQL
+import $ivy.`org.scalikejdbc::scalikejdbc:2.5.2`
+import $ivy.`mysql:mysql-connector-java:8.0.11`
+
 // H2
 import $ivy.`com.h2database:h2:1.4.197`
 
@@ -60,5 +64,29 @@ import $ivy.`com.typesafe.akka::akka-cluster:2.5.16`
 import $ivy.`com.typesafe.akka::akka-cluster-metrics:2.5.16`
 import $ivy.`com.typesafe.akka::akka-cluster-tools:2.5.16`
 import $ivy.`com.typesafe.akka::akka-multi-node-testkit:2.5.16`
+
+# LEVEL DB:
+import $ivy.`org.iq80.leveldb:leveldb:0.10`
+import $ivy.`org.fusesource.leveldbjni:leveldbjni-all:1.8`
+
+# ARGONAUT
+import $ivy.`io.argonaut::argonaut:6.2`
+import $ivy.`io.argonaut::argonaut-scalaz:6.2`
+import $ivy.`io.argonaut::argonaut-monocle:6.2`
+import $ivy.`io.argonaut::argonaut-cats:6.2`
+
+# COMPRESS
+import $ivy.`org.apache.commons:commons-compress:1.16.1`
+
+# PDF
+import $ivy.`com.itextpdf::itextpdf:5.5.10`
+import $ivy.`org.apache.pdfbox::pdfbox:2.0.4`
+
+# JODA
+import $ivy.`joda-time::joda-time:2.7`
+
+# QR
+import $ivy.`com.google.zxing:core:3.3.3`
+import $ivy.`com.google.zxing:javase:3.3.3`
 
 ```
