@@ -9,14 +9,14 @@ import $ivy.`org.scalactic::scalactic:3.0.5`
 import $ivy.`org.scalacheck::scalacheck:1.14.0` 
 
 // CATS
-import $ivy.`org.typelevel:cats-macros:1.5.0`
-import $ivy.`org.typelevel:cats-kernel:1.5.0`
-import $ivy.`org.typelevel:cats-core:1.5.0`
-import $ivy.`org.typelevel:cats-laws:1.5.0`
-import $ivy.`org.typelevel:cats-free:1.5.0`
-import $ivy.`org.typelevel:cats-testkit:1.5.0`
-import $ivy.`org.typelevel:cats-effect:1.5.0`
-import $ivy.`org.typelevel:cats-mtl:1.5.0`
+import $ivy.`org.typelevel::cats-macros:1.5.0`
+import $ivy.`org.typelevel::cats-kernel:1.5.0`
+import $ivy.`org.typelevel::cats-core:1.5.0`
+import $ivy.`org.typelevel::cats-laws:1.5.0`
+import $ivy.`org.typelevel::cats-free:1.5.0`
+import $ivy.`org.typelevel::cats-testkit:1.5.0`
+import $ivy.`org.typelevel::cats-effect:1.5.0`
+import $ivy.`org.typelevel::cats-mtl:1.5.0`
 
 // MONOCLE
 import $ivy.`com.github.julien-truffaut::monocle-core:1.5.0`
