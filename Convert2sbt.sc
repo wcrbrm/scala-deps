@@ -18,8 +18,9 @@ val result = scala.io.Source.fromFile(filename).getLines.map { input =>
 
 
 val pw = new java.io.PrintWriter(new java.io.File(output))
-pw.write("// this file is read only and generated from Ammonite.md")
+pw.write("```\n// this file is read only and generated from Ammonite.md\n")
 pw.write(result)
+pw.write("```\n")
 pw.close
 
 

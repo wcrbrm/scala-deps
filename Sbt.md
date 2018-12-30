@@ -1,4 +1,6 @@
-// this file is read only and generated from Ammonite.md	"org.scalatest" %% "scalatest" % "3.0.5",
+```
+// this file is read only and generated from Ammonite.md
+	"org.scalatest" %% "scalatest" % "3.0.5",
 	"org.scalactic" %% "scalactic" % "3.0.5",
 	"org.scalacheck" %% "scalacheck" % "1.14.0",
 	"org.typelevel" % "cats-macros" % "1.5.0",
@@ -64,4 +66,4 @@
 	"com.madgag.spongycastle" % "core" % "1.53.0.0",
 	"com.madgag.spongycastle" % "prov" % "1.53.0.0",
 	"com.chuusai" %% "shapeless" % "2.3.3",
-	"fr.janalyse" %% "janalyse-ssh" % "0.1.3"
+	"fr.janalyse" %% "janalyse-ssh" % "0.1.3"```
