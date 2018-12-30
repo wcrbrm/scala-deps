@@ -1,1 +1,0 @@
-val playSocketIo = "com.lightbend.play" %% "play-socket-io" % "1.0.0-beta-2"

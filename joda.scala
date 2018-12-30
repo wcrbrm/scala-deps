@@ -1,1 +1,0 @@
-val Joda = "joda-time" % "joda-time" % "2.7"

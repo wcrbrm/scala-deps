@@ -1,1 +1,0 @@
-val scalactic = "org.scalactic" %% "scalactic" % "3.0.1"
