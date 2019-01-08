@@ -113,6 +113,8 @@ import $ivy.`org.apache.spark::spark-streaming-twitter_2.10:1.2.0`
 import $ivy.`org.apache.flink::flink-scala:1.7.1`
 import $ivy.`org.apache.flink::flink-streaming-scala:1.7.1`
 
+// KAFKA STREAMS
+import $ivy.`com.lightbend::kafka-streams-scala:0.2.1`
 
 // BOUNCY CASTLE
 import $ivy.`org.bouncycastle:bcprov-jdk15on:1.56`
