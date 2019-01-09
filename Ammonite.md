@@ -116,6 +116,10 @@ import $ivy.`org.apache.flink::flink-streaming-scala:1.7.1`
 // KAFKA STREAMS
 import $ivy.`com.lightbend::kafka-streams-scala:0.2.1`
 
+// ETCD
+import $ivy.`com.github.mingchuno::etcd4s-core:0.1.4`
+import $ivy.`com.github.mingchuno::etcd4s-akka-stream:0.1.4`
+
 // BOUNCY CASTLE
 import $ivy.`org.bouncycastle:bcprov-jdk15on:1.56`
 
