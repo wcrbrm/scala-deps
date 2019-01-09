@@ -122,7 +122,11 @@ import $ivy.`com.datastax.cassandra:cassandra-driver-mapping:3.6.0`
 import $ivy.`com.datastax.cassandra:cassandra-driver-extras:3.6.0`
 import $ivy.`com.lightbend.akka::akka-stream-alpakka-cassandra:1.0-M1`
 
-// HDFS
+// DYNAMODB
+import $ivy.`com.amazonaws:aws-java-sdk-dynamodb:1.11.479`
+import $ivy.`com.lightbend.akka::akka-stream-alpakka-dynamodb:1.0-M1`
+
+// HDFS - HADOOP
 import $ivy.`com.lightbend.akka::akka-stream-alpakka-hdfs:1.0-M1`
 
 // ETCD
