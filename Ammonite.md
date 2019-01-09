@@ -116,6 +116,12 @@ import $ivy.`org.apache.flink::flink-streaming-scala:1.7.1`
 // KAFKA STREAMS
 import $ivy.`com.lightbend::kafka-streams-scala:0.2.1`
 
+// CASSANDRA
+import $ivy.`com.lightbend.akka::akka-stream-alpakka-cassandra:1.0-M1`
+
+// HDFS
+import $ivy.`com.lightbend.akka::akka-stream-alpakka-hdfs:1.0-M1`
+
 // ETCD
 import $ivy.`com.github.mingchuno::etcd4s-core:0.1.4`
 import $ivy.`com.github.mingchuno::etcd4s-akka-stream:0.1.4`
