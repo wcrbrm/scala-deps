@@ -117,6 +117,7 @@ import $ivy.`org.apache.flink::flink-streaming-scala:1.7.1`
 import $ivy.`com.lightbend::kafka-streams-scala:0.2.1`
 
 // CASSANDRA
+import $ivy.`com.datastax.cassandra:cassandra-driver-core:3.4.0`
 import $ivy.`com.lightbend.akka::akka-stream-alpakka-cassandra:1.0-M1`
 
 // HDFS
