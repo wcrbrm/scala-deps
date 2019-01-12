@@ -8,6 +8,9 @@ import $ivy.`org.scalatest::scalatest:3.0.5`
 import $ivy.`org.scalactic::scalactic:3.0.5` 
 import $ivy.`org.scalacheck::scalacheck:1.14.0` 
 
+// SCALA MACROS
+import $ivy.`org.scalamacros::paradise:2.1.0-M5`
+
 // CATS
 import $ivy.`org.typelevel::cats-macros:1.5.0`
 import $ivy.`org.typelevel::cats-kernel:1.5.0`
