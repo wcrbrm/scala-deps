@@ -159,3 +159,10 @@ import $ivy.`com.squareup.retrofit2:retrofit:2.5.0`
 import $ivy.`fr.acinq::bitcoin-lib:0.9.17`
 import $ivy.`org.bitcoinj:bitcoinj-core:0.14.7`
 import $ivy.`cash.bitcoinj:bitcoinj-core:0.14.5.2`
+
+// TENSORFLOW
+import $ivy.`org.platanios::tensorflow:0.4.1`
+import $ivy.`org.platanios::tensorflow-data:0.4.1`
+import $ivy.`org.platanios::tensorflow-example:0.4.1`
+
+
