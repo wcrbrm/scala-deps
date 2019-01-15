@@ -152,4 +152,7 @@ import $ivy.`fr.janalyse::janalyse-ssh:0.1.3`
 // RETROFIT (HTTP)
 import $ivy.`com.squareup.retrofit2:retrofit:2.5.0`
 
-```
+// BITCOIN LIBS```
+import $ivy.`fr.acinq::bitcoin-lib:0.9.17`
+import $ivy.`org.bitcoinj:bitcoinj-core:0.14.7`
+import $ivy.`cash.bitcoinj:bitcoinj-core:0.14.5.2`
