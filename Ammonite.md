@@ -149,6 +149,9 @@ import $ivy.`com.chuusai::shapeless:2.3.3`
 // SSH
 import $ivy.`fr.janalyse::janalyse-ssh:0.1.3`
 
+// JSOUP (html parsing)
+import $ivy.`org.jsoup:jsoup:1.11.3`
+
 // RETROFIT (HTTP)
 import $ivy.`com.squareup.retrofit2:retrofit:2.5.0`
 
