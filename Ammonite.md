@@ -118,6 +118,8 @@ import $ivy.`org.apache.flink::flink-streaming-scala:1.7.1`
 
 // KAFKA STREAMS
 import $ivy.`com.lightbend::kafka-streams-scala:0.2.1`
+// KAFKA - JAVA CLIENTS
+import $ivy.`org.apache.kafka:kafka-clients:0.10.1.0`
 
 // CASSANDRA
 import $ivy.`com.datastax.cassandra:cassandra-driver-core:3.6.0`
