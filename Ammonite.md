@@ -134,6 +134,9 @@ import $ivy.`com.lightbend.akka::akka-stream-alpakka-dynamodb:1.0-M1`
 // HDFS - HADOOP
 import $ivy.`com.lightbend.akka::akka-stream-alpakka-hdfs:1.0-M1`
 
+// FILES as STREAM
+import $ivy.`com.lightbend.akka::akka-stream-alpakka-file:1.0-M2`
+
 // ETCD
 import $ivy.`com.github.mingchuno::etcd4s-core:0.1.4`
 import $ivy.`com.github.mingchuno::etcd4s-akka-stream:0.1.4`
